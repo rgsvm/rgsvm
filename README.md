@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lakshmi and Data Science and AI Student looking for Intership
+- 👋 Hi, I’m Lakshmi, A Data Science and AI Student looking for Intership
 - 👀 I enjoy using my obsessive attention to detail for making things that change the world
 - 🌱 I’m mastering Data Science and Artificial Intelligence 
 - 💞️ I love learning new technologies, reading, travelling
