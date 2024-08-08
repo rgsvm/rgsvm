@@ -1,6 +1,5 @@
 - 👋 Hello, I’m Lakshmi, A Data Science and AI Student looking for Intership
-- ✨ I am a passionate and results-driven data scientist with a strong background in leveraging data to drive business insights and decision-making.
--    My expertise lies in applying advanced statistical techniques, machine learning algorithms, and data visualization tools to solve complex problems and extract actionable insights from data.
+- ✨ I am a passionate and results-driven data scientist with a strong background in leveraging data to drive business insights and decision-making. My expertise lies in applying advanced statistical techniques, ML algorithms, and data visualization tools to solve complex problems and extract actionable insights from data.
 - 👀 I enjoy using my obsessive attention to detail for making things that change the world
 - 🌱 I’m mastering Data Science and Artificial Intelligence 
 - 💞️ I love learning new technologies, reading, travelling
