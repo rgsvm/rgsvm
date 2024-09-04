@@ -12,8 +12,13 @@
 	- Big Data Technologies: Familiar with Hadoop, Spark, and other big data technologies for analyzing large-scale datasets.
 	- Version Control: Proficient in using Git and GitHub for version control and collaboration on projects.
 - 🧑‍💻 Projects :
-	- Python : Goodreads Book Rating Prediction Model : A data mining approach for recommending books using the Kaggle’s Goodreads-books dataset.
-	- Net4Logo : Car Maintenance Model : First unique model developed to show the car maintenance process.
+	- Python
+   		- Stanford Car Classification in Python, a Deep Learning Project, Ongoing
+ 		- Goodreads Book Rating Prediction Model, a Machine Learning Project for recommending books using the Kaggle’s Goodreads-books dataset.
+        - "R" Language
+          	- Time series forecasting for Electricity consumption
+          	- Survival Analysis in "R" for predicting mortality caused by Heart Failure.
+	- NetLogo : Car Maintenance Model : First unique model developed to show the car maintenance process.
 - 📫 You can reach me here selvalakshmi.r@gmail.com
 - 😄 Pronouns: She/Her
 - 💪 My Values : Sincere, Dedication, Innovative Thinking and Excellence
