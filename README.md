@@ -18,7 +18,7 @@
      	- Clustering projects : KMeans, CNN, Hierarchical clustering and DBScan
         - Electric Vehicles Market Analysis
         - Sales Forecasting
-        - "R" Language
+- R" Language
           	- Time series forecasting for Electricity consumption
           	- Survival Analysis in "R" for predicting mortality caused by Heart Failure.
 	- NetLogo : Car Maintenance Model : First unique model developed to show the car maintenance process.
