@@ -15,6 +15,9 @@
 	- Python
    		- Stanford Car Classification in Python, a Deep Learning Project, Ongoing
  		- Goodreads Book Rating Prediction Model, a Machine Learning Project for recommending books using the Kaggle’s Goodreads-books dataset.
+     		- Clustering projects : KMEans, CNN, Hierarchical clustering and DBScan
+                - Electric Vehicles Market Analysis
+                - Sales Forecasting
         - "R" Language
           	- Time series forecasting for Electricity consumption
           	- Survival Analysis in "R" for predicting mortality caused by Heart Failure.
