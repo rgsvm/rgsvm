@@ -14,11 +14,11 @@
 - 🧑‍💻 Projects :
 	- Python
    		- Stanford Car Classification in Python, a Deep Learning Project, Ongoing
- 		- Goodreads Book Rating Prediction Model, a Machine Learning Project for recommending books using the Kaggle’s Goodreads-books dataset.
-     	- Clustering projects : KMeans, CNN, Hierarchical clustering and DBScan
-        - Electric Vehicles Market Analysis
-        - Sales Forecasting
-- R" Language
+ 		- Goodreads Book Rating Prediction Model, a Machine Learning Project.
+     		- Clustering projects : KMeans, CNN, Hierarchical clustering and DBScan
+        	- Electric Vehicles Market Analysis
+        	- Sales Forecasting
+	 - R" Language
           	- Time series forecasting for Electricity consumption
           	- Survival Analysis in "R" for predicting mortality caused by Heart Failure.
 	- NetLogo : Car Maintenance Model : First unique model developed to show the car maintenance process.
