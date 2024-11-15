@@ -13,16 +13,7 @@
 	- Version Control: Proficient in using Git and GitHub for version control and collaboration on projects.
  	- Google Cloud Platform
 - 🧑‍💻 Projects :
-	- Python
-   		- Stanford Car Classification in Python, a Deep Learning Project, Ongoing
- 		- Goodreads Book Rating Prediction Model, a Machine Learning Project.
-     		- Clustering projects : KMeans, CNN, Hierarchical clustering and DBScan
-        	- Electric Vehicles Market Analysis
-        	- Sales Forecasting
-	- R Language
-          	- Time series forecasting for Electricity consumption
-          	- Survival Analysis in "R" for predicting mortality caused by Heart Failure.
-	- NetLogo : Car Maintenance Model : First unique model developed to show the car maintenance process.
+	- Please have a look here : https://github.com/rgsvm?tab=repositories
 - 📫 You can reach me here selvalakshmi.r@gmail.com
 - 😄 Pronouns: She/Her
 - 💪 My Values : Sincere, Dedication, Innovative Thinking and Excellence
