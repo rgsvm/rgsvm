@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Lakshmi, A Data Science and AI Student looking for Intership or Permanent position available for immediate start.
+- 👋 Hello, I’m Lakshmi, Mastering Data Science and AI Student looking for Intership or Permanent position available for immediate start.
 - ✨ I am a passionate and results-driven data scientist with a strong background in leveraging data to drive business insights and decision-making. My expertise lies in applying advanced statistical techniques, ML algorithms, and data visualization tools to solve complex problems and extract actionable insights from data.
 - 👀 I enjoy using my obsessive attention to detail for making things that change the world
 - 🌱 I’m mastering Data Science and Artificial Intelligence 
