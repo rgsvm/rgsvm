@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Lakshmi, Data Scientist, open to work.
 - ✨ I am a passionate and results-driven data scientist with a strong background in leveraging data to drive business insights and decision-making. My expertise lies in applying advanced statistical techniques, ML algorithms, and data visualization tools to solve complex problems and extract actionable insights from data.
 - 👀 I enjoy using my obsessive attention to detail for making things that change the world
-- 🌱 I’m passionate working in AI, ML, DL 
+- 🌱 I’m passionate working in Geospatial Analysis, AI, ML, DL 
 - 💞️ I love learning new technologies, reading, travelling
 -  🤹‍♂️ Skills
 	- Data Wrangling: Expertise in data cleaning, transformation, and preprocessing techniques to ensure data quality and integrity.
