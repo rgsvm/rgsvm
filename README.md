@@ -1,9 +1,10 @@
-- 👋 Hello, I’m Lakshmi, Data Scientist, open to work.
-- ✨ I am a passionate and results-driven data scientist with a strong background in leveraging data to drive business insights and decision-making. My expertise lies in applying advanced statistical techniques, ML algorithms, and data visualization tools to solve complex problems and extract actionable insights from data.
+- 👋 Hello, I’m Selva, Data Scientist, open to work.
+- ✨ I am a passionate and results-driven data professional with a strong background in leveraging data to drive business insights and decision-making. My expertise lies in applying advanced statistical techniques, ML algorithms, and data visualization tools to solve complex problems and extract actionable insights from data.
 - 👀 I enjoy using my obsessive attention to detail for making things that change the world
-- 🌱 I’m passionate working in Geospatial Analysis, AI, ML, DL 
+- 🌱 I’m passionate working in Gen AI, Automation, RAG, AI, ML, DL 
 - 💞️ I love learning new technologies, reading, travelling
 -  🤹‍♂️ Skills
+	- Built AI applications using OpenAI APIs with strong focus on prompt engineering, LLM-based 		   automation, and end-to-end deployment of intelligent applications.
 	- Data Wrangling: Expertise in data cleaning, transformation, and preprocessing techniques to ensure data quality and integrity.
 	- Machine Learning: Experienced in building predictive models, classification algorithms, and clustering techniques to solve real-world problems.
 	- Data Analysis: Proficient in analyzing large datasets using Python, R, and SQL to extract meaningful insights and identify trends.
