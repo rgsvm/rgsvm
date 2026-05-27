@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Selva, Data Scientist, open to work.
+- 👋 Hello, I’m Selva, Open to work in Europe. Thank you for visit to my github space. 
 - ✨ I am a passionate and results-driven data professional with a strong background in leveraging data to drive business insights and decision-making. My expertise lies in applying advanced statistical techniques, ML algorithms, and data visualization tools to solve complex problems and extract actionable insights from data.
 - 👀 I enjoy using my obsessive attention to detail for making things that change the world
 - 🌱 I’m passionate working in Gen AI, Automation, RAG, AI, ML, DL 
